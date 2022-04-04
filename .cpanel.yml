@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/nodexehw/repositories/cal/
+    - /bin/cp *$DEPLOYPATH
+    .cpanel.yml
